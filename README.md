@@ -16,7 +16,7 @@
 
 <br/>
 
-Hi, I'm [Umer Hashim Qureshi](https://twitter.com/umerhqureshi), <b>Chief Executive Officer</b> and <b>Lead Developer</b> at <a href="http://senarybits.com"><b><img alt="" src="/logo.png" width="30" height="30" /> SenaryBits</b></a>, also a passionate self-taught Full Stack Web/Mobile Developer from Pakistan. My enthusiasm for programming lies with devising thoughts and making them work out as expected with rich interfaces. I take extraordinary consideration in the experience, engineering, and code nature of the things I assemble.
+Hi, I'm [Umer Hashim Qureshi](https://twitter.com/umerhqureshi), <b>Chief Executive Officer</b> and <b>Lead Developer</b> at <a href="http://senarybits.com"><b>SenaryBits</b></a>, also a passionate self-taught Full Stack Web/Mobile Developer from Pakistan. My enthusiasm for programming lies with devising thoughts and making them work out as expected with rich interfaces. I take extraordinary consideration in the experience, engineering, and code nature of the things I assemble.
 
 I'm likewise an open-source aficionado and maintainer. I took in a great deal from the open-source local area and I love the way coordinated effort and information sharing occurred through open-source.
 
