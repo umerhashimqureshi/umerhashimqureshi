@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/umerhashimqurehsi/umerhashimqureshi/blob/master/code.gif?raw=true" width="230" />
-<p><em>Chief Executive Officer and Lead Developer at <a href="http://senarybits.com">SenaryBits</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Chief Executive Officer and Lead Developer at <a href="http://senarybits.com">SenaryBits</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 <a href="https://discord.gg/XTW52Kt">
@@ -13,7 +13,9 @@
 <a href="https://www.linkedin.com/in/umerhashimqureshi/">
   <img align="left" alt="Umer's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <br/>
+
 Hi, I'm [Umer Hashim Qureshi](https://twitter.com/umerhqureshi), a passionate self-taught Full Stack Web/Mobile Developer from Pakistan. My enthusiasm for programming lies with devising thoughts and making them work out as expected with rich interfaces. I take extraordinary consideration in the experience, engineering, and code nature of the things I assemble.
 
 I'm likewise an open-source aficionado and maintainer. I took in a great deal from the open-source local area and I love the way coordinated effort and information sharing occurred through open-source.
