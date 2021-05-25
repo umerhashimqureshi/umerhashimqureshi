@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="/code.gif" width="230" />
-<p><b>Chief Executive Officer</b> and <b>Lead Developer</b> at <a href="http://senarybits.com"><img alt="" src="/logo-with-title.png" width="50" height="30" /></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><b>Chief Executive Officer</b> and <b>Lead Developer</b> at <a href="http://senarybits.com"><b><img alt="" src="/logo.png" width="50" height="30" /> SenaryBits</b></a>
 </em></p>
 
 <a href="https://discord.gg/XTW52Kt">
