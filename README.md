@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/umerhashimqurehsi/umerhashimqureshi/blob/main/code.gif?raw=true" width="230" />
+<img align="right" alt="GIF" src="https://github.com/umerhashimqurehsi/umerhashimqureshi/main/code.gif?raw=true" width="230" />
 <p><em>Chief Executive Officer and Lead Developer at <a href="http://senarybits.com">SenaryBits</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
