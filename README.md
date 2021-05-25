@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/umerhashimqureshi/">
   <img align="left" alt="Umer's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
 Hi, I'm [Umer Hashim Qureshi](https://twitter.com/umerhqureshi), a passionate self-taught Full Stack Web/Mobile Developer from Pakistan. My enthusiasm for programming lies with devising thoughts and making them work out as expected with rich interfaces. I take extraordinary consideration in the experience, engineering, and code nature of the things I assemble.
 
 I'm likewise an open-source aficionado and maintainer. I took in a great deal from the open-source local area and I love the way coordinated effort and information sharing occurred through open-source.
@@ -38,6 +38,7 @@ const umer = {
 ```
 
 If you are not up for reading the code above, here's a visual representation of the tools and technologies I work in:
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
