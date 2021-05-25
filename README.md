@@ -1,7 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="/code.gif" width="230" />
-<p><b>Chief Executive Officer</b> and <b>Lead Developer</b> at <a href="http://senarybits.com"><b><img alt="" src="/logo.png" width="50" height="30" /> SenaryBits</b></a>
+<img align="right" alt="GIF" src="/code.gif" width="250" />
 </em></p>
 
 <a href="https://discord.gg/XTW52Kt">
@@ -18,7 +17,7 @@
 
 <br/>
 
-Hi, I'm [Umer Hashim Qureshi](https://twitter.com/umerhqureshi), a passionate self-taught Full Stack Web/Mobile Developer from Pakistan. My enthusiasm for programming lies with devising thoughts and making them work out as expected with rich interfaces. I take extraordinary consideration in the experience, engineering, and code nature of the things I assemble.
+Hi, I'm [Umer Hashim Qureshi](https://twitter.com/umerhqureshi), <p><b>Chief Executive Officer</b> and <b>Lead Developer</b> at <a href="http://senarybits.com"><b><img alt="" src="/logo.png" width="50" height="30" /> SenaryBits</b></a>, also a passionate self-taught Full Stack Web/Mobile Developer from Pakistan. My enthusiasm for programming lies with devising thoughts and making them work out as expected with rich interfaces. I take extraordinary consideration in the experience, engineering, and code nature of the things I assemble.
 
 I'm likewise an open-source aficionado and maintainer. I took in a great deal from the open-source local area and I love the way coordinated effort and information sharing occurred through open-source.
 
@@ -31,13 +30,13 @@ const umer = {
   tools: [React, Redux, Node, Styled-Components, MongoDB, MySQL, Firebase, Git],
   architecture: ["microservices", "event-driven", "SAAS"],
   whoAmI: {
-                        developer: "I have been developing stuff since I, too, don't even know for how long.",
-                        founder: "I have founded a startup named SenaryBits."
-                      },
+          developer: "I have been developing stuff since I, too, don't even know for how long.",
+          founder: "I have founded a startup named SenaryBits."
+            },
  challenges: {
-                        helpCommunity: "To contribute more for the open-source community.",
-                        assistFellowDevs: "You can ask me about any assistance, I will try my best to get back to you ASAP."
-                      }
+          helpCommunity: "To contribute more for the open-source community.",
+          assistFellowDevs: "You can ask me about any assistance, I will try my best to get back to you ASAP."
+            }
 }
 ```
 
