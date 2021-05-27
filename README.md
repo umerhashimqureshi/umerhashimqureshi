@@ -31,12 +31,12 @@ const umer = {
   whoAmI: {
           developer: "I have been developing stuff since I, too, don't even know for how long.",
           founder: "I have founded a startup named SenaryBits."
-            },
+          },
  challenges: {
           helpCommunity: "To contribute more for the open-source community.",
           assistFellowDevs: "You can ask me about any assistance, I will try my best to get back to you ASAP."
-            }
-}
+          }
+    }
 ```
 
 If you are not up for reading the code above, here's a visual representation of the tools and technologies I work in:
