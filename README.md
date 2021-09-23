@@ -2,9 +2,6 @@
 
 <img align="right" alt="GIF" src="/code.gif" width="250" />
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/umerhqureshi">
   <img align="left" alt="Umer Hashim Qureshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
