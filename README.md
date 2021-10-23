@@ -13,7 +13,7 @@
 
 <br/>
 
-Hi, I'm [Umer Hashim Qureshi](https://twitter.com/umerhqureshi), a Senior Level Full Stack Developer, also a passionate self-taught Full Stack Developer from Pakistan. My enthusiasm for programming lies with devising thoughts and making them work out as expected with rich interfaces. I take extraordinary consideration in the experience, engineering, and code nature of the things I assemble.
+Hi, I'm [Umer Hashim Qureshi](https://umerhashimqureshi.com), a Senior Level Full Stack Developer, also a passionate self-taught Full Stack Developer from Pakistan. My enthusiasm for programming lies with devising thoughts and making them work out as expected with rich interfaces. I take extraordinary consideration in the experience, engineering, and code nature of the things I assemble.
 
 I'm likewise an open-source aficionado and maintainer. I took in a great deal from the open-source local area and I love the way coordinated effort and information sharing occurred through open-source.
 
@@ -22,7 +22,7 @@ I'm likewise an open-source aficionado and maintainer. I took in a great deal fr
 ```javascript
 const umer = {
   pronouns: "he" | "him" | "his",
-  code: [HTML, CSS, Bootstrap, Javascript, React, React Native, Node, Ruby, Python],
+  code: [HTML, CSS, Bootstrap, Javascript, React, React Native, Node, Ruby, Python, Blockchain, Blockchain],
   tools: [React, Redux, Node, Styled-Components, MongoDB, MySQL, Firebase, Git],
   architecture: ["microservices", "event-driven", "SAAS"],
   whoAmI: {
