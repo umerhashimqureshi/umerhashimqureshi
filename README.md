@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="/code.gif" width="250" />
 
 <a href="https://www.linkedin.com/in/umerhashimqureshi/">
-  <img align="left" alt="Umer's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Umer's LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
 </a>
 
 <br/>
